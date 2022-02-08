@@ -1,0 +1,58 @@
+{
+    "images": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".bmp",
+      ".gif"
+    ],
+    "documents": [
+      ".txt",
+      ".pdf",
+      ".doc",
+      ".docx",
+      ".md",
+      ".pub"
+    ],
+    "data": [
+      ".csv",
+      ".json"
+    ],
+    "link": [
+      ".html"
+    ],
+    "videos": [
+      ".mp4",
+      ".mkv",
+      ".flv",
+      ".avi",
+      ".wmv"
+    ],
+    "audio": [
+      ".mp3",
+      ".wav",
+      ".aac",
+      ".ogg",
+      ".flac"
+    ],
+    "compressed": [
+      ".zip",
+      ".rar",
+      ".7z",
+      ".tar",
+      ".gz"
+    ],
+    "executables": [
+      ".exe",
+      ".msi",
+      ".apk",
+      ".jar"
+    ],
+    "torrents": [
+      ".torrent"
+    ],
+    "code": [
+      ".py",
+      ".ipnyb"
+    ]
+  }
