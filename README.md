@@ -1,5 +1,5 @@
 # clean_directory
-Cleans a directory by moving files to organize directories.
+Cleans a directory by moving files to organize directories base on extensions.
 
 # How to Run
 First in main rep directory, run the following code to add `src` to your `PYTHONPATH`:
