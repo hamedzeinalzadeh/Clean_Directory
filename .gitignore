@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+#my custom ignore   
+*.ipynb_checkpoints
+*.ipynb
