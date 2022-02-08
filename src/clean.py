@@ -1,9 +1,11 @@
 import json
 import shutil
+import sys
 from collections import Counter
 from pathlib import Path
 
 from loguru import logger
+
 from src.data import DATA_DIR
 from src.utils.io import read_json
 
@@ -45,6 +47,5 @@ class OrganizeFiles:
 
 if __name__ == "__main__":
     org_files = OrganizeFiles()
-    org_files('/home/saeed/Desktop/tmporary')
+    org_files(sys.argv[1])
     logger.info("Done!")
-
